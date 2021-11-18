@@ -1,0 +1,60 @@
+
+.labels
+{
+ width: 240px;
+ float: left;
+ 
+ overflow: auto;
+}
+
+.inputs
+{
+ float: left;
+ overflow: auto;
+ margin-bottom: 100px;
+}
+
+.work
+{
+ display: inline-block;
+ margin-top: 14px;
+}
+
+.option
+{
+ display: none;
+}
+
+.name
+{
+ width: 200px;
+ height: 20px;
+ font-size: 17px;
+}
+
+.select
+{
+ width: 180px;
+ height: 20px;
+ font-size: 15px;
+}
+
+.textbox
+{
+ width: 200px;
+ height: 20px;
+ font-size: 16px;
+}
+
+.submit
+{
+ width: 80px;
+ height: 25px;
+ font-size: 20px;
+}
+
+b
+{
+ font-weight: lighter;
+ color: red;
+}
